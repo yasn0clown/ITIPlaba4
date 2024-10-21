@@ -1,0 +1,18 @@
+окт. 21, 2024 3:07:11 AM CustomStack pop
+SEVERE: Нельзя извлечь элемент: стек пуст.
+CustomEmptyStackException: Нельзя извлечь элемент: стек пуст.
+	at CustomStack.pop(Main.java:58)
+	at Main.main(Main.java:98)
+
+окт. 21, 2024 3:07:43 AM CustomStack pop
+SEVERE: Нельзя извлечь элемент: стек пуст.
+CustomEmptyStackException: Нельзя извлечь элемент: стек пуст.
+	at CustomStack.pop(Main.java:58)
+	at Main.main(Main.java:98)
+
+окт. 21, 2024 3:13:59 AM CustomStack peek
+SEVERE: Нельзя проверить элемент: стек пуст.
+CustomEmptyStackException: Нельзя проверить элемент: стек пуст.
+	at CustomStack.peek(Main.java:68)
+	at Main.main(Main.java:98)
+
